@@ -29,6 +29,4 @@ Diving deeper into NumPy!
 
 - What is the id of the ad having the maximum number of clicks ?
 
-- How many people bought the product after seeing the ad with most clicks? Is that the maximum number of purchases in this dataset?
-
 - So the ad with the most clicks didn't fetch the maximum number of purchases. Find the details of the product having maximum number of purchases
