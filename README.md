@@ -1,4 +1,4 @@
-# NumPy-Project
+# NumPy-Project: Analysing the ad campaigns using NumPy
 Diving deeper into NumPy!
 
 #### Path: project_data = 'KAG_Conversion_Data.csv'
